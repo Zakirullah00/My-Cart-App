@@ -1,0 +1,12 @@
+com.example.wsclub_traning.app-core-1.6.0-0 /Users/zakirullah/.gradle/caches/transforms-3/284a410c767ad6c7a2b0ffc8d8d85981/transformed/core-1.6.0/res
+com.example.wsclub_traning.app-jetified-window-java-1.0.0-beta04-1 /Users/zakirullah/.gradle/caches/transforms-3/2a215381204751055df81b6269e717b7/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.wsclub_traning.app-jetified-annotation-experimental-1.1.0-2 /Users/zakirullah/.gradle/caches/transforms-3/3d2f03fc996c2e0aa3dee5cfa3002cd1/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.wsclub_traning.app-jetified-window-1.0.0-beta04-3 /Users/zakirullah/.gradle/caches/transforms-3/f302e75fb7efd781bcf1a29281c188da/transformed/jetified-window-1.0.0-beta04/res
+com.example.wsclub_traning.app-debug-4 /Users/zakirullah/Documents/wsclub_traning/android/app/src/debug/res
+com.example.wsclub_traning.app-main-5 /Users/zakirullah/Documents/wsclub_traning/android/app/src/main/res
+com.example.wsclub_traning.app-pngs-6 /Users/zakirullah/Documents/wsclub_traning/build/app/generated/res/pngs/debug
+com.example.wsclub_traning.app-resValues-7 /Users/zakirullah/Documents/wsclub_traning/build/app/generated/res/resValues/debug
+com.example.wsclub_traning.app-rs-8 /Users/zakirullah/Documents/wsclub_traning/build/app/generated/res/rs/debug
+com.example.wsclub_traning.app-mergeDebugResources-9 /Users/zakirullah/Documents/wsclub_traning/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.wsclub_traning.app-mergeDebugResources-10 /Users/zakirullah/Documents/wsclub_traning/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.wsclub_traning.app-merged_res-11 /Users/zakirullah/Documents/wsclub_traning/build/app/intermediates/merged_res/debug
