@@ -13,6 +13,7 @@ class MyCard extends StatelessWidget {
         backgroundColor: Colors.teal,
         body: SafeArea(
           child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
             children: [
               CircleAvatar(
                 radius: 50.0,
@@ -28,6 +29,12 @@ class MyCard extends StatelessWidget {
                 color: Colors.white,
                 fontFamily: 'Poppins'
               ), ),
+              SizedBox(
+                width: 260.0,
+                child: Divider(
+                  color: Colors.black,
+                ),
+              ),
               Container(
                 margin: EdgeInsets.symmetric(horizontal: 20, vertical: 10),
                 padding: EdgeInsets.symmetric(horizontal: 10, vertical: 10),
@@ -44,31 +51,32 @@ class MyCard extends StatelessWidget {
                     ),
                     Text('Zakir Ullah' , style: TextStyle(
                       fontSize: 20,
-                    ), ),
-                    Container(
-                      margin: EdgeInsets.symmetric(horizontal: 20, vertical: 10),
-                      padding: EdgeInsets.symmetric(horizontal: 20, vertical: 10),
-                      color: Colors.white,
-                      child: Row(
-                        children: [
-                          Icon(
-                            Icons.lock,
-                            color: Colors.teal,
-                          ),
-                          SizedBox(
-                            width: 20,
-                            height: 20,
-                          ),
-                          Text('Password', style: TextStyle(
-                            fontSize: 20,
-                          ),)
-                        ],
-                      ),
-                    ),
+                    ), )
                   ],
                 ),
 
-              )
+              ),
+              Container(
+                margin: EdgeInsets.symmetric(horizontal: 20, vertical: 10),
+                padding: EdgeInsets.symmetric(horizontal: 10, vertical: 10),
+                color: Colors.white,
+                child: Row(
+                  children: [
+                    Icon(
+                      Icons.lock,
+                      color: Colors.teal,
+                    ),
+                    SizedBox(
+                      width: 20,
+                      height: 20,
+                    ),
+                    Text('Password' , style: TextStyle(
+                      fontSize: 20,
+                    ), )
+                  ],
+                ),
+
+              ),
             ],
           )
         ),
